@@ -11,4 +11,7 @@ The purpose of this analysis was to show trends in weather data on the island of
 ![June](https://github.com/aaronwolfeaaron/surfs_up/blob/main/Resources/June.png)
 ![December](https://github.com/aaronwolfeaaron/surfs_up/blob/main/Resources/December.png)
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary
+As evidenced by the data collected, there is little variation in temperatures between seasons in Oahu. Therefore, on the basis of temperature, I do not see any reason for Mr. Avy not to invest in the surf shop. Two additional queries that I would be interested in performing to obtain further information would be:
+  1. Average rainfall per month. While temperature shifts might not deter potential surfers, rainfall could.
+  2. Average number of tourists on Oahu per month. While locals may frequent the shop on a more regular schedule, the remainder of the shop's business would be          dependent on visits, which may vary a lot between seasons based on travel trends.
