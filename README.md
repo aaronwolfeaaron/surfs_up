@@ -8,5 +8,7 @@ The purpose of this analysis was to show trends in weather data on the island of
 - There is even less variance in the average temperature between the two months studied. The average temperature in June is 74.9 degrees, while in December, it is 71.0.
 - There is not much change in standard deviation between the two months. In December, the standard deviation from the mean is 3.75, while in June it is 3.26. 
 
+![June](https://github.com/aaronwolfeaaron/surfs_up/blob/main/Resources/June.png)
+![December](https://github.com/aaronwolfeaaron/surfs_up/blob/main/Resources/December.png)
 
-Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
